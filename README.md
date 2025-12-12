@@ -1,4 +1,4 @@
-Roblox Unblocker v1.0
+**Roblox Unblocker v1.0**
 ===================
 
 For Windows:
@@ -16,3 +16,6 @@ Commands:
 - status: Show current settings
 
 Note: Linux requires sudo for timezone changes.
+
+
+#**Program is under test! Do not use if u are not proffesional.**
