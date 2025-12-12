@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Use sudo or doas for using it.
 echo "Region Changer for Linux"
 echo ""
 
