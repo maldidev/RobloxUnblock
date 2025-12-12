@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# THIS FILE IS NOT SAFE FOR USING AS NOT PROFFESIONAL!
 echo "=== Universal Region Changer ==="
 echo ""
 echo "1. Set random region"
