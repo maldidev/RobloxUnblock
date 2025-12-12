@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# IF YOU HAVE THOUGH THAT IS WILL RUIN YOUR COMPUTER THEN EDIT IT.
 echo "Installing Region Changer..."
 echo ""
 echo "Copying files..."
