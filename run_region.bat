@@ -1,3 +1,4 @@
+# THIS FILE IS NOT SAFE FOR USING AS NOT PROFFESIONAL!
 @echo off
 chcp 65001 >nul
 
