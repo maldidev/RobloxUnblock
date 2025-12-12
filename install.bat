@@ -1,3 +1,4 @@
+; EDIT IF HAVE THOUGH THAT IS CAN RUIN YOUR SYSTEM.
 @echo off
 echo Installing Region Changer...
 echo.
