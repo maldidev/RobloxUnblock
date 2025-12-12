@@ -1,0 +1,8 @@
+region_changer/
+├── region_manager.py      # Main Python Code
+├── region_win.bat         # Windows batch file
+├── region_linux.sh        # Linux bash code
+├── run_region.bat         # Windows menu
+├── run_region.sh          # Linux menu
+├── install.bat            # Downloading for Windows
+├── install.sh             # Downloading for Linux
